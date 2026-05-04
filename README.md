@@ -85,19 +85,19 @@ Discord: `piesimp`
 
 ### Editor
 
-![Editor Screenshot](images/editor.png)
+<img width="1366" height="645" alt="ScreenShot Tool -20260504214303" src="https://github.com/user-attachments/assets/15b484a2-dd54-4141-a5cb-20737f5b5fdf" />
 
 ---
 
 ### Gallery
 
-![Gallery Screenshot](images/gallery.png)
+<img width="1366" height="645" alt="ScreenShot Tool -20260504214401" src="https://github.com/user-attachments/assets/32f5b0b8-c74c-422a-952e-5ece13b294e5" />
 
 ---
 
 ### Export
 
-![Export Screenshot](images/export.png)
+<img width="1366" height="645" alt="ScreenShot Tool -20260504214518" src="https://github.com/user-attachments/assets/8554ce6d-1ee9-4a2d-9b16-5afcfbe7e38f" />
 
 ---
 
