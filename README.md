@@ -122,15 +122,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/karizzmaa/survev-crosshair.git
-
-
-
-
-
-
-
-
-
-
-
+```
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 :trollface:
